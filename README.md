@@ -1,5 +1,5 @@
 # Workshop APIs - TDC Porto Alegre 2018
-Workshop "Como modelar e desenvolver {APIs} para /evoluir sua plataforma" realizado durante o The Developer's Conference (TDC) 2018 em Porto Alegre/RS (UniRitter) - realizado em 05/12/2018
+Workshop "Como modelar e desenvolver APIs para evoluir sua plataforma" realizado durante o The Developer's Conference (TDC) 2018 em Porto Alegre/RS (UniRitter) - realizado em 05/12/2018
 
 ## Agenda
 * Objetivos
