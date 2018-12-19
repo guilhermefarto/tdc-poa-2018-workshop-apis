@@ -1,0 +1,13 @@
+mongod --dbpath=C:/tdc_poa_2018/db
+
+###
+
+show dbs
+
+use tdc
+
+db.users.find().pretty()
+
+###
+
+db.users.remove({})
